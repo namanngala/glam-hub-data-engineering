@@ -136,7 +136,5 @@ More advanced tuning can happen in later phases once queries and pipelines becom
 - Invoices may contain service and product line items together.
 - The current schema is the foundational operational model and can be extended later.
 
-## Week 2 Output Summary
-
-The work completed in this phase established the initial database structure for Glam Hub and documented the storage strategy needed for the next stages of the project. This creates a clear base for future pipeline development, integration work, and reporting support.
+project. This creates a clear base for future pipeline development, integration work, and reporting support.
 
